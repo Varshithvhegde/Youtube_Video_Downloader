@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My yt download</string>
+    <string name="error_no_yt_link">Not a valid YouTube link!</string>
+</resources>
